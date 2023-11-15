@@ -34,7 +34,7 @@ function startApp() {
             case 'View all departments':
                 viewDepartments();
                 break;
-            // Add cases for each option
+    
             case 'Exit':
                 connection.end();
                 break;
